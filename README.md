@@ -46,8 +46,7 @@ To get dump1090 producing SBS-1 messages from an RTL-SDR:
 
 1. Clone this repository.
 2. If not installed, [install Go](https://go.dev/doc/install).
-3. Adjust constants in `main.go` for your setup, especially tokens and DataSet endpoints.
-4. Run:
+3. Run:
 
    go build
 
