@@ -54,7 +54,7 @@ An executable `adsb-go-dataset` will be created.
 
 You can run the code by executing this binary:
 
-./adsb-go-dataset --dataset_api_write_token=YOUR_TOKEN --dump1090_host=utilities.33901.cloud
+    ./adsb-go-dataset --dataset_api_write_token=YOUR_TOKEN --dump1090_host=utilities.33901.cloud
 
 You can also set the required configuration by environment variable:
 
